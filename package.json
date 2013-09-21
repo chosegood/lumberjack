@@ -1,0 +1,26 @@
+{
+  "name": "lumberjack",
+  "version": "0.0.0",
+  "main": "lib/lumberjack.js",
+  "description": "The best module ever.",
+  "homepage": "https://github.com/chosegood/lumberjack",
+  "bugs": "https://github.com/chosegood/lumberjack/issues",
+  "author": {
+    "name": "Chris Hosegood",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chosegood/lumberjack"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  }
+}
