@@ -13,6 +13,8 @@ lumberjack.awesome(); // "awesome"
 ## Documentation
 _(Coming soon)_
 
+npm install lazy
+
 ## Examples
 _(Coming soon)_
 
