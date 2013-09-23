@@ -29,13 +29,6 @@ exports['lumberjack'] = {
     done();
   },
 
-  'no args': function(test) {
-    test.expect(1);
-    // tests here
-    test.equal(lumberjack.awesome(), 'awesome', 'should be awesome.');
-    test.done();
-  },
-
   'parseLog': function(test) {
     test.expect(1);
     // tests here
