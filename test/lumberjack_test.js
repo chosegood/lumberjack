@@ -32,7 +32,7 @@ exports['lumberjack'] = {
   'parseLog': function(test) {
     test.expect(1);
     // tests here
-    test.equal(lumberjack.parseLog('./test/test.log'), 'awesome', 'should be awesome.');
+    test.equal(lumberjack.parseLog('./test/test.log', './test/output.csv'), 'awesome', 'should be awesome.');
     test.done();
   }
 
