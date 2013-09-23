@@ -20,6 +20,7 @@
   ],
   "dependencies": {
     "lazy": "~1.0.11",
+    "json2csv": "~2.1.0"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",

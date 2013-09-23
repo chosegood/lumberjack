@@ -36,6 +36,4 @@ exports['lumberjack'] = {
     test.done();
   }
 
-
-
 };
